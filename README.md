@@ -2,8 +2,7 @@ I write about software at [dancroak.com](https://dancroak.com).
 
 Some of my open source projects:
 
-- [browse](https://github.com/croaky/browse): Headless Chrome screenshots for
-  agents to run one command and get one PNG
+- [browse](https://github.com/croaky/browse): Headless Chrome screenshots for agents
 - [highlight](https://github.com/croaky/highlight): Syntax highlighter for
   server-rendered HTML
 - [hml](https://github.com/croaky/hml): Structure-aware HTML template language
