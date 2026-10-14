@@ -5,8 +5,7 @@ Some of my open source projects:
 - [calc](https://github.com/croaky/calc): REPL for arithmetic
 - [browse](https://github.com/croaky/browse): Headless Chrome screenshots for agents
 - [errs](https://github.com/croaky/errs): Error tracking SDK for Go
-- [highlight](https://github.com/croaky/highlight): Syntax highlighter for
-  server-rendered HTML
+- [highlight](https://github.com/croaky/highlight): Syntax highlighter for server-rendered HTML
 - [hml](https://github.com/croaky/hml): Structure-aware HTML template language
 - [is](https://github.com/croaky/is): Minimal test assertions for Go
 - [laptop](https://github.com/croaky/laptop): Setup script and dotfiles
@@ -17,9 +16,7 @@ Some of my open source projects:
 
 Some of my public-facing web apps:
 
-- [duck duck bay](https://duckduckbay.com/): Mobile puzzle game where you build an
-  ecosystem to attract creatures
+- [duck duck bay](https://duckduckbay.com/): Mobile ecosystem puzzle game
 - [launchpad](https://launchpad.ivp.com/): Mobile vertical platformer game
-- [marshfall](https://marshfall.com/): Mobile bubble shooter game where you
-  defend the marsh from invading creatures arriving on the tides
+- [marshfall](https://marshfall.com/): Mobile bubble shooter game
 - [sports](https://sports.dancroak.com): Sports scoreboard and news reader
