@@ -2,7 +2,9 @@ I write about software at [dancroak.com](https://dancroak.com).
 
 Some of my open source projects:
 
+- [calc](https://github.com/croaky/calc): REPL for arithmetic
 - [browse](https://github.com/croaky/browse): Headless Chrome screenshots for agents
+- [errs](https://github.com/croaky/errs): Error tracking SDK for Go
 - [highlight](https://github.com/croaky/highlight): Syntax highlighter for
   server-rendered HTML
 - [hml](https://github.com/croaky/hml): Structure-aware HTML template language
