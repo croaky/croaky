@@ -1,9 +1,9 @@
 I write about software at [dancroak.com](https://dancroak.com).
 
-Open source projects:
+Some of my open source projects:
 
 - [calc](https://github.com/croaky/calc): REPL for arithmetic
-- [browse](https://github.com/croaky/browse): Headless Chrome screenshots for agents
+- [browse](https://github.com/croaky/browse): Headless Chrome screenshots
 - [errs](https://github.com/croaky/errs): Error tracking SDK for Go
 - [highlight](https://github.com/croaky/highlight): Syntax highlighter for server-rendered HTML
 - [hml](https://github.com/croaky/hml): Structure-aware HTML template language
@@ -14,7 +14,7 @@ Open source projects:
 - [procman](https://github.com/croaky/procman): Process manager for local development on macOS
 - [tun](https://github.com/croaky/tun): Tunnel local services to the public internet
 
-Public-facing web apps:
+Some of my public-facing web apps:
 
 - [duck duck bay](https://duckduckbay.com/): Mobile ecosystem puzzle game
 - [launchpad](https://launchpad.ivp.com/): Mobile vertical platformer game
