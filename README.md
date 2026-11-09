@@ -3,6 +3,8 @@ I write about software at [dancroak.com](https://dancroak.com).
 Some of my open source projects:
 
 - [calc](https://github.com/croaky/calc): REPL for arithmetic
+- [chart](https://github.com/croaky/chart): Server-rendered charts for Go
+- [cssunused](https://github.com/croaky/cssunused): Find unused CSS classes
 - [browse](https://github.com/croaky/browse): Headless Chrome screenshots
 - [errs](https://github.com/croaky/errs): Error tracking SDK for Go
 - [highlight](https://github.com/croaky/highlight): Syntax highlighter for server-rendered HTML
