@@ -1,6 +1,4 @@
-I write about software at [dancroak.com](https://dancroak.com).
-
-Some of my open source projects:
+I write at [dancroak.com](https://dancroak.com). Some open source projects:
 
 - [calc](https://github.com/croaky/calc): REPL for arithmetic
 - [chart](https://github.com/croaky/chart): Server-rendered charts for Go
